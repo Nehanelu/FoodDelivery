@@ -1,0 +1,63 @@
+.Navigation{
+    width: 100%;
+     background-color: rgb(22, 230, 136);
+     overflow: hidden;
+}
+  /* Style the links inside the navigation bar */
+  .Navigation a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .Navigation  a:hover {
+    background-color: #04AA6D;
+    color: white;
+  }
+/*footer*/
+.Heading h1{
+  text-align: center;
+  color: brown;
+}
+.left-About{
+  margin-top: -30%;
+  margin-left: 40%;
+  margin-right: 15%;
+}
+.left-About h4{
+  color: rgb(161, 45, 45);
+  text-align: center;
+
+  font-style: italic;
+
+
+}
+.OurTeam h1{
+  text-align: center;
+  color: brown;
+}
+.OurTeam{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.footer{
+  background-color: rgb(22, 230, 136);   
+ }
+ 
+ 
+ .footer h3{
+     text-align: center;
+     font-style: italic;
+ }
+ .footer h5{
+ text-align: center;
+ }
+ 
+ .footer p{
+ text-align: center;
+ font-style: italic;
+ }
